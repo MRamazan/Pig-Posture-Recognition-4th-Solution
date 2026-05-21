@@ -60,6 +60,7 @@ OUT_DIR    = Path("/root/.cache/kagglehub/datasets/ramazanturann/pig-posture-pre
 
 This path is set via `OUT_DIR` when running in inference mode. Submission files are also saved to this directory. In training notebook, i set `OUT_DIR` to `outputs`.
 
+**train notebook and inference notebook is same, only difference is inference_only parameter set to True.**
 
 ## Environment
 
